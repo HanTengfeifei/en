@@ -13,7 +13,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Products.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/routes/Products.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -46,8 +59,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-100" />
-    <option name="y" value="648" />
+    <option name="x" value="132" />
+    <option name="y" value="141" />
     <option name="width" value="1750" />
     <option name="height" value="940" />
   </component>
@@ -63,6 +76,11 @@
             <path>
               <item name="dva-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="dva-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dva-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dva-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -104,15 +122,15 @@
       <option name="presentableId" value="Default" />
       <updated>1522923372712</updated>
       <workItem from="1522923374044" duration="1816000" />
-      <workItem from="1522926354013" duration="1173000" />
+      <workItem from="1522926354013" duration="2422000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2989000" />
+    <option name="totallyTimeSpent" value="4238000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-80" y="519" width="1400" height="752" extended-state="1" />
+    <frame x="106" y="113" width="1400" height="752" extended-state="1" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -201,7 +219,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/routes/Products.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
+        <state relative-caret-position="175">
           <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
